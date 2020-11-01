@@ -142,7 +142,7 @@ public class HW1 {
         }
         return x1;
     }
-
+//
     public static void helloname (String name) {
         System.out.println("Hello " + name);
     }
